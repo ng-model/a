@@ -1,0 +1,4 @@
+echo " Running validate now.."
+
+# running vaild script
+sh .husky/validate.sh "$1"
